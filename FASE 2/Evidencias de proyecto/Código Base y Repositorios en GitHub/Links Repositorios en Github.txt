@@ -1,0 +1,9 @@
+Link Repositorio aplicación web:
+https://github.com/Exeeq/fixspot
+
+Link Repositorio aplicación escritorio:
+https://github.com/Exeeq/fixspot-desktop
+
+
+Base de datos usada fixspot-bd (MySQL), igualmente se encuentra en el código base
+de la app web, la app javafx usa la API implementada con django rest framework.
